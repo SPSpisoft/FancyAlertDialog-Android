@@ -1,16 +1,15 @@
-package com.shashank.sony.fancydialoglibrary;
+package com.spisoft.fancydialoglibrary;
 
-import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.shashank.sony.fancydialoglib.Animation;
-import com.shashank.sony.fancydialoglib.FancyAlertDialog;
-import com.shashank.sony.fancydialoglib.FancyAlertDialogListener;
-import com.shashank.sony.fancydialoglib.Icon;
+import com.spisoft.sony.fancydialoglib.Animation;
+import com.spisoft.sony.fancydialoglib.FancyAlertDialog;
+import com.spisoft.sony.fancydialoglib.FancyAlertDialogListener;
+import com.spisoft.sony.fancydialoglib.Icon;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     Button b1;

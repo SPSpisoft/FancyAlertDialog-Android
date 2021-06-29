@@ -1,4 +1,4 @@
-package com.shashank.sony.fancydialoglib;
+package com.spisoft.fancydialoglibrary;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.shashank.sony.fancydialoglib.test", appContext.getPackageName());
+        assertEquals("com.spisoft.fancydialoglibrary", appContext.getPackageName());
     }
 }

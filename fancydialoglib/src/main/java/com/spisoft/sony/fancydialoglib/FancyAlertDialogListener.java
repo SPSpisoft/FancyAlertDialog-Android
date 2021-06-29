@@ -1,4 +1,4 @@
-package com.shashank.sony.fancydialoglib;
+package com.spisoft.sony.fancydialoglib;
 
 /**
  * Created by Administrator on 11/20/2017.

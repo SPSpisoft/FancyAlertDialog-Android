@@ -1,4 +1,4 @@
-package com.shashank.sony.fancydialoglib;
+package com.spisoft.fancydialoglibrary;
 
 import org.junit.Test;
 

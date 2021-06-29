@@ -5,7 +5,7 @@
 [![](https://jitpack.io/v/Shashank02051997/FancyAlertDialog-Android.svg)](https://jitpack.io/#Shashank02051997/FancyAlertDialog-Android)
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-FancyAlertDialog-green.svg?style=flat )]( https://android-arsenal.com/details/1/6626 )
 
-<a href="https://play.google.com/store/apps/details?id=com.shashank.sony.fancylibrarybyshashank">
+<a href="https://play.google.com/store/apps/details?id=com.spisoft.sony.fancylibrarybyshashank">
     <img alt="Get it on Google Play"
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
