@@ -29,10 +29,9 @@ allprojects {
 Add this to your module's `build.gradle` file (make sure the version matches the JitPack badge above):
 
 ```gradle
-dependencies {
-	...
-	compile 'com.github.Shashank02051997:FancyAlertDialog-Android:0.1'
-}
+	dependencies {
+	        implementation 'com.github.SPSpisoft:FancyAlertDialog-Android:1.0.0'
+	}
 ```
 <h2> Fancy Alert Dialog</h2>
 
