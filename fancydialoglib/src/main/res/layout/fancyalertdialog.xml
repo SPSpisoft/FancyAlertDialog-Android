@@ -83,7 +83,9 @@
 
                     <Button
                         android:id="@+id/negativeBtn"
+                        android:visibility="visible"
                         android:layout_width="0dp"
+                        android:layout_margin="10dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="50"
                         android:background="@drawable/curved_shape2"
@@ -93,6 +95,7 @@
                     <Button
                         android:id="@+id/positiveBtn"
                         android:layout_width="0dp"
+                        android:layout_margin="10dp"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="16dp"
                         android:layout_weight="50"
